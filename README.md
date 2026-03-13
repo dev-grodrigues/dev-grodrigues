@@ -1,7 +1,9 @@
 # 👋 Olá, Eu sou Gabriel Rodrigues
 
 💻 Desenvolvedor focado em **JavaScript**
+---
 🚀 Apaixonado por tecnologia, web e criar projetos interessantes
+---
 📚 Atualmente aprendendo **JavaScript, Node.js, React**
 
 ---
@@ -16,7 +18,6 @@
 
 ---
 
----
 
 ## 📊 Estatísticas do GitHub
 
