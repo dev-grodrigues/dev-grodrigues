@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Gabriel Rodrigues]
+# 👋 Olá, Eu sou Gabriel Rodrigues
 
 💻 Desenvolvedor focado em **JavaScript**
 🚀 Apaixonado por tecnologia, web e criar projetos interessantes
