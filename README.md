@@ -1,11 +1,9 @@
-# 👋 Olá, Eu sou Gabriel Rodrigues
+@@I'm a lover of technology @@
 
-💻 Desenvolvedor focado em **JavaScript**
----
-🚀 Apaixonado por tecnologia, web e criar projetos interessantes
----
-📚 Atualmente aprendendo **JavaScript, Node.js, React**
-
++ Living in Bahia, Brazil 🇧🇷 
+- 17 years old 
+! NodeJS and JavaScript programmer and always studying some technology
+# Interested in Python, Java,
 ---
 
 ## 🧠 Tecnologias que uso
