@@ -1,9 +1,11 @@
-@@I'm a lover of technology @@
+# Opa, me chamo Gabriel Rodrigues
 
-+ Living in Bahia, Brazil 🇧🇷 
-- 17 years old 
-! NodeJS and JavaScript programmer and always studying some technology
-# Interested in Python, Java,
+💻 Desenvolvedor focado em **Backend**
+---
+🚀 Apaixonado por tecnologia, web e criar projetos interessantes
+---
+📚 Atualmente aprendendo **HTML, CSS, JavaScript, Node.js and React**
+
 ---
 
 ## 🧠 Tecnologias que uso
