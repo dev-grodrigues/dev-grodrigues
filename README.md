@@ -1,6 +1,6 @@
 # Opa, me chamo Gabriel Rodrigues
 
-💻 Desenvolvedor focado em **Backend**
+💻 Desenvolvedor
 ---
 🚀 Apaixonado por tecnologia, web e criar projetos interessantes
 ---
