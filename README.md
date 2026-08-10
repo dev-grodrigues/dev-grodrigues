@@ -1,12 +1,12 @@
 # Opa, me chamo Gabriel Rodrigues
 
 💻 Desenvolvedor
----
-🚀 Apaixonado por tecnologia, web e criar projetos interessantes
----
-📚 Atualmente aprendendo **HTML, CSS, JavaScript, Node.js and React**
 
----
+🚀 Apaixonado por tecnologia, web e criar projetos interessantes
+
+📚 Tecnico em **Desenvolvimento de sistemas**
+
+
 
 ## 🧠 Tecnologias que uso
 
@@ -15,7 +15,7 @@
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
-
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ---
 
 
@@ -29,13 +29,10 @@
 
 ## 📚 Atualmente estudando
 
+* Python
+* SQL
 * JavaScript
-* Node.js
-* React
-* HTML
-* CSS
-
-
+  
 ---
 ⭐ Obrigado por visitar meu perfil!
 ## 📫 Contato
