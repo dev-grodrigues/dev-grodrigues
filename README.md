@@ -15,7 +15,7 @@
     <a href="https://www.linkedin.com/in/gabriel-rodrigues-77663338a/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:gabrielrodrigues.dev2@gmail.com" target="_blank">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabrielrodrigues.dev2@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     <a href="https://github.com/dev-grodrigues" target="_blank">
@@ -95,18 +95,17 @@
   <table border="0">
     <tr>
       <td>
-        <img height="175em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=61DAFB&text_color=ffffff&icon_color=61DAFB" alt="GitHub Stats" />
+        <img height="175em" src="https://github-readme-stats.vercel.app/api?username=dev-grodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=61DAFB&text_color=ffffff&icon_color=61DAFB" alt="GitHub Stats" />
       </td>
       <td>
-         <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&title_color=61DAFB&text_color=ffffff" alt="Top Languages" />
+        <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-grodrigues&layout=compact&theme=tokyonight&hide_border=true&title_color=61DAFB&text_color=ffffff" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&fire=61DAFB&ring=61DAFB" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-grodrigues&theme=tokyonight&hide_border=true&fire=61DAFB&ring=61DAFB" alt="GitHub Streak" />
 </div>
 
 ---
