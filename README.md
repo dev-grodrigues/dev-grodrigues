@@ -4,8 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=220&section=header&text=Olá,%20eu%20sou%20o%20Gabriel%20Rodrigues!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Técnico%20em%20Desenvolvimento%20de%20Sistemas&descFontSize=20&descAlignY=60&descAlign=50" width="100%"/>
 
   
-  <a href="https://github.com/gabrielrodrigues">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software;Apaixonado+por+tecnologia+e+código;Stack:+Java+%7C+C+%7C+SQL+%7C+Web;Construindo+soluções+eficientes!" alt="Typing SVG" />
+  <a href="https://github.com/dev-grodrigues">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software;Apaixonado+por+tecnologia+e+c%C3%B3digo;Stack%3A+Java+%7C+C+%7C+SQL+%7C+Web;Construindo+solu%C3%A7%C3%B5es+eficientes%21" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -107,14 +107,6 @@
 
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&fire=61DAFB&ring=61DAFB" alt="GitHub Streak" />
-</div>
-
----
-
-### 🐍 Snake Animation (Atividade)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
 
 ---
